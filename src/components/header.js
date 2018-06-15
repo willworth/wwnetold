@@ -1,11 +1,15 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import logo from "../images/logo.svg";
+import logo from "../images/logowheat.svg";
 import styled from 'styled-components';
 
 
 const HeaderWrapper = styled.div `
-background: #8b7765;
+// background: #516272;
+ background: #607744;
+ background: #011627;
+// background: #b89e97;
+// background: #8b7765;
       margin-Bottom: 1.45rem; 
 `;
 

@@ -4,7 +4,13 @@ import logo from "../images/logo.svg";
 const Footer = ({ siteTitle }) => (
   <div
     style={{
-      background: '#A77E58',
+      // background: '#A77E58', 
+      // background: '#131515',  //gunmetal black
+      // background: '#031d44',  //oxford blue  
+      // background: '#011627',  //Maastricht Blue 
+      background: '#607744',  //Fern Green
+      // https://coolors.co/516272-0d1f2d-131515-031d44-0b7a75
+      
       //* marginBottom: '1.45rem', */
 
 

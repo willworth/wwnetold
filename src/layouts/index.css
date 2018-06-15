@@ -8,6 +8,11 @@ body {
   /* background-color: #EEE3AB; */
   background-color: #A18276;
   background-color: PaleGoldenrod;
+  background-color: #424b54;
+  background-color: #291f1e;
+  background-color: #1e1014;
+  background-color: #e6e8e6;
+  
 
 }
 article,
@@ -201,6 +206,7 @@ html {
   box-sizing: inherit;
 }
 body {
+  /* color: wheat; */
   color: hsla(0, 0%, 0%, 0.8);
   font-family: georgia, serif;
   font-weight: normal;
