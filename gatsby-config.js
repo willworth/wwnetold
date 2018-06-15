@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "will worth . net",
+    title: "willworth.net",
     desc: "Music website of Will Worth",
     author: "Will Worth"
   },

@@ -2,15 +2,12 @@
 
 ## To do
 svg header resize issue
-- Page queries
-- internationalisation
+- inter nationalisation
 - Add social links to menu.
-- Add pdf CV to about me, link to contact
 - Menu?
-- Social network.
+- Social network icons
 - Multi language Menu.
--  Pagination.
-- Create sitemap.
+-
 - Test google analytics.
 - Contact page.
 
