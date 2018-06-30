@@ -18,15 +18,7 @@ const IndexPage = ({ data }) => (
       <PostListing key={node.id} post={node} />
     ))}
     </p> */}
-    <Img 
-    
-    
-    style={{
-        
-        float: 'right'
-      }}
-
-    
+    <Img  
     
     
     

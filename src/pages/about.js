@@ -19,8 +19,7 @@ class about extends Component {
        <li> <a href="https://twitter.com/willworth">twitter</a> <br/></li>
         </ul>
         
-        <p>Thanks for your interest.</p>
-        <Link to="/">Go back to the homepage</Link>
+        {/* <Link to="/">Go back to the homepage</Link> */}
       </div>
     )
   }

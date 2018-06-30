@@ -11,10 +11,6 @@ class music extends Component {
 
 
 
-
-                <p> If you have any questions, comments or want to talk about collaboration pease do get in touch either 
-                via social networks twitter linkedin facebook or email.</p>
-                <p>Thanks for your interest.</p>
                 <Link to="/">Go back to the homepage</Link> 
             </div>
         );

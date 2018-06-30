@@ -8,8 +8,9 @@ const Footer = ({ siteTitle }) => (
       // background: '#131515',  //gunmetal black
       // background: '#031d44',  //oxford blue  
       // background: '#011627',  //Maastricht Blue 
-      // background: '#607744',  //Fern Green
-      background: '#79a9d1',  // https://coolors.co/465561-78a1bb-ebf5ee-bfa89e-72635a
+       //background: '#607744',  //Fern Green
+       background: '#bfa89e',  
+     // background: '#79a9d1',  // https://coolors.co/465561-78a1bb-ebf5ee-bfa89e-72635a
       // https://coolors.co/516272-0d1f2d-131515-031d44-0b7a75
       
       //* marginBottom: '1.45rem', */
