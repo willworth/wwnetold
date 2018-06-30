@@ -18,7 +18,21 @@ const IndexPage = ({ data }) => (
       <PostListing key={node.id} post={node} />
     ))}
     </p> */}
-    <Img sizes={data.background.sizes} />
+    <Img 
+    
+    
+    style={{
+        
+        float: 'right'
+      }}
+
+    
+    
+    
+    
+    sizes={data.background.sizes}
+    
+    />
     <footer />
   </div>
 )
