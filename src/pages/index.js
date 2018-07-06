@@ -7,10 +7,22 @@ import PostListing from '../components/Posts/Postlisting';
 
 const IndexPage = ({ data }) => (
   <div>
-    <h1>Hi!</h1>
 
-    <p>Thanks for visiting <br/> </p>
-    <p> Please check out <Link to="/blog/">the blog</Link>, or click <Link to = "/music/">here</Link> for the music.</p>
+    
+      
+  <h3>  Welcome to willworth.net</h3> 
+    <p> (I'm a musician and writer.) </p>
+    <p> Please check out <Link to="/blog/">the blog</Link>, or click <Link to = "/music/">here</Link> for music.</p>
+    <Img  
+    
+     sizes={data.background.sizes}
+    style={{
+        maxWidth: 600,
+        //float: "right", 
+}}
+    
+      
+    />
     {/* <p>{data.site.siteMetadata.title}</p> */}
     {/* <p>{data.site.siteMetadata.desc}</p> */}
 {/* <p>
@@ -18,13 +30,6 @@ const IndexPage = ({ data }) => (
       <PostListing key={node.id} post={node} />
     ))}
     </p> */}
-    <Img  
-    
-    
-    
-    sizes={data.background.sizes}
-    
-    />
     <footer />
   </div>
 )

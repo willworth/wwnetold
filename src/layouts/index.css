@@ -632,3 +632,10 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+
+
+
+.homepageprofile {
+  float: right,
+}

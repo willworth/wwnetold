@@ -13,7 +13,7 @@ class about extends Component {
         </p>
         <ul>
 
-       <li> <a href="https://www.youtube.com/user/WillWorthMusic">youtube</a> <br/></li>
+       <li style ={{  liststyle: "none"  }}> <a href="https://www.youtube.com/user/WillWorthMusic">youtube</a> <br/></li>
        <li> <a href="https://www.instagram.com/will.worth/">instagram</a> <br/></li>
        <li> <a href="https://www.facebook.com/WillWorthMusic/">facebook</a> <br/></li>
        <li> <a href="https://twitter.com/willworth">twitter</a> <br/></li>
