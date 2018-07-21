@@ -8,7 +8,7 @@ class about extends Component {
         <p>Will Worth is a multi-instrumentalist songwriter and composer.</p>
         <p>
           Combining evocative story-telling and beautiful arrangements, his work
-          features expressive melodic piano / viola combinations and electronic
+          features expressive melodic piano/viola combinations and electronic
           experimentation, as well as more traditional folk guitar influences.
         </p>
         <ul>
